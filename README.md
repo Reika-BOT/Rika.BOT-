@@ -1,5 +1,3 @@
-# sky-bot
-하늘이 디스코드 봇
+# Rika.BOT©
+Rika.BOT© 디스코드 봇
 
-
-이용약관
